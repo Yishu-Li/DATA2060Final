@@ -6,5 +6,6 @@ We selected Gaussian Nayes Bayes classifier as the project model. We implemented
 
 ## Group members:
 Enno Moench (enno_moench@brown.edu)  
+Janet Joseph (janetjoseph@brown.edu)  
 Xueru Ma (xueru_ma@brown.edu)  
 Yishu Li (yishu_li@brown.edu)  
