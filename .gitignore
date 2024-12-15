@@ -1,0 +1,5 @@
+# Ignore my VS code settings
+.vscode
+
+# Ignore the saved model parameters
+*.pkl
