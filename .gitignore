@@ -3,3 +3,6 @@
 
 # Ignore the saved model parameters
 *.pkl
+
+# Ignore the html files
+*.html
